@@ -4,7 +4,7 @@ class Userbar extends Component {
     render() {
         return (
             <div>
-                <span style={{fontSize: 20}}>Alexander Borisenko</span>
+                <span style={{fontSize: 20}}>John Smith</span>
             </div>
         )
     }
